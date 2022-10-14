@@ -1,7 +1,5 @@
-# DADS5001_Miniproject_Thailand PM2.5-Data-Analysis
-Name : Porrakit Jansoontornravee 
-
-Student ID : 6420422014
+# DADS5001_Miniproject_Data Analysis of Thailand PM2.5
+# Name : Porrakit Jansoontornravee  /  Student ID : 6420422014
 
 ที่มาของข้อมูล 
 ข้อมูลคุณภาพอากาศจากจุดตรวจวัดคุณภาพอากาศอัตโนมัติพื้นที่ทั่วประเทศ ปี 2554 - 2564
